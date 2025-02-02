@@ -34,7 +34,7 @@ This project follows the required submission structure, ensuring proper file nam
 ## How to Use This Repository
 1. Clone the repository using:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/kishan2805/Submit.git
    ```
 2. Open the respective **.ipynb** files in Jupyter Notebook to explore the analysis and modeling steps.
 3. Refer to the **PDF reports** for summarized insights and explanations.
